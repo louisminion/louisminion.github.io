@@ -2,7 +2,7 @@ title: Louis Minion
 author: Louis Minion
 email: louisalvar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This website contains info about me and some of my projects.
+  About me.
 theme: minima
 # social links
 twitter_username: louis_minion # DO NOT include the @ character, or else the build will fail!
